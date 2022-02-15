@@ -1,14 +1,14 @@
 # cpp_starter_project
 
-![CI](https://github.com/cpp-best-practices/cpp_starter_project/workflows/ci/badge.svg)
-[![codecov](https://codecov.io/gh/cpp-best-practices/cpp_starter_project/branch/main/graph/badge.svg)](https://codecov.io/gh/cpp-best-practices/cpp_starter_project)
-[![Language grade: C++](https://img.shields.io/lgtm/grade/cpp/github/cpp-best-practices/cpp_starter_project)](https://lgtm.com/projects/g/cpp-best-practices/cpp_starter_project/context:cpp)
+![CI](https://github.com/LtdSauce/auto-cleanup-test/workflows/ci/badge.svg)
+[![codecov](https://codecov.io/gh/LtdSauce/auto-cleanup-test/branch/main/graph/badge.svg)](https://codecov.io/gh/LtdSauce/auto-cleanup-test)
+[![Language grade: C++](https://img.shields.io/lgtm/grade/cpp/github/LtdSauce/auto-cleanup-test)](https://lgtm.com/projects/g/LtdSauce/auto-cleanup-test/context:cpp)
 
 ## Getting Started
 
 ### Use the Github template
 First, click the green `Use this template` button near the top of this page.
-This will take you to Github's ['Generate Repository'](https://github.com/cpp-best-practices/cpp_starter_project/generate) page.
+This will take you to Github's ['Generate Repository'](https://github.com/LtdSauce/auto-cleanup-test/generate) page.
 Fill in a repository name and short description, and click 'Create repository from template'.
 This will allow you to create a new repository in your Github account,
 prepopulated with the contents of this project. After creating the project please wait until the cleanup workflow has finished
